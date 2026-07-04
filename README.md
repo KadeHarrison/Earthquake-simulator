@@ -30,6 +30,6 @@ Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
 |----|----|-------|-------------|---------|
 |Cardboard| Nothing | Serves as the base| 40 cm x 40 cm base |¥0 + 0 fish|
 |Utility Knife| 100 Fish | To cut the cardboard base and styrofoam for early model| 1 |¥0 + 100 Fish|
-|Buzzer| [] | to immitate earthquake sirens| (5)|¥[] +100 Fish
-|LED| [] |Represents emergency lights| (50) |¥[] + 100 fish
-| ESR motor | ¥50 | Immitates earthquake shaking| 2 | ¥[] + 50 +100 fish |
+|Buzzer| ¥5 | to immitate earthquake sirens| 5|¥5 +100 Fish
+|LED| ¥10 |Represents emergency lights| 50 |¥15 + 100 fish
+| ESR motor | ¥50 | Immitates earthquake shaking| 2 | ¥65 +100 fish |
