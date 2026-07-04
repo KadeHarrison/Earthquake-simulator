@@ -10,6 +10,7 @@ Lina - write more here such as who you are/what you do -
 Kade
 
 **Things to possibly fix**
+
 Only delete this section once everything in here has been fixed and or removed
 
 Info in () = possible wrong info or things I'm not too sure about
