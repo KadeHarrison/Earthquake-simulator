@@ -3,9 +3,9 @@ group task!!!!!!!!
 
 **Members**
 
-Ayush - write more here such as who you are/what you do-
+Ayush - write more here such your role in the project and more info if you desire-
 
-Lina - write more here such as who you are/what you do -
+Lina - write more here such your role in the project and more info if you desire-
 
 Kade
 
