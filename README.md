@@ -3,11 +3,11 @@ group task!!!!!!!!
 
 **Members**
 
-Ayush - write more here such your role in the project and more info if you desire-
+Ayush - write more here such your role in the project and more info if you desire -
 
-Lina - write more here such your role in the project and more info if you desire-
+Lina - write more here such your role in the project and more info if you desire -
 
-Kade
+Kade - write more here such your role in the project and more info if you desir e-
 
 **Things to possibly fix**
 
