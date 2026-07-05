@@ -9,18 +9,6 @@ Lina - linalgrayson@gmail.com
 
 Kade - harrisonkade6@gmail.com
 
-**Things to possibly fix**
-
-Only delete this section once everything in here has been fixed and or removed
-
-Info in () = possible wrong info or things I'm not too sure about
-
-Info in - - = fill in if it refers to you 
-
-lack of info and [] = I don't know what goes there so if you do please fill it in
-
-Info in {} = add more info to that section or just improve it please
-
 # General Info
 
 **Reason built + inspiration**
@@ -31,7 +19,7 @@ Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
 
 **How it works**
 
-{Motor go spinny spin and vibrates the board making it go shaky shake 👍}
+The motors spin causing the entire cuty module to start shaking which will then cause the building which are purposefully not properly linked together to start breaking apart. Whille this is happening there will be red flashing LEDs and Loud buzzers blaring high pitched noises to make the simulation of the earthquake more realistic. 
 
 # BOM
 |Item|How much we spent (Fish or Yuan)|Purpose| Amount bought/borrowed |Running Total (Fish or Yuan)|
