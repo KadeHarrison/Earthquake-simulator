@@ -42,3 +42,5 @@ Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
 |LED| ¥10 |Represents emergency lights| 50 |¥15 + 100 fish
 | ESR motor | ¥50 | Immitates earthquake shaking| 2 | ¥65 +100 fish |
 | Breadboard | 15 Fish | Connects components | 1 | ¥65 + 110 fish |
+|XIAO ESP32-C3 | 100 fish | Controls LED | 1 | ¥65 + 210 fish |
+| 1m of wire | 5 fish | connects componments| 1 | ¥65 +215 fish |
