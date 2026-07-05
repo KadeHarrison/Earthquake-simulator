@@ -3,12 +3,11 @@ group task!!!!!!!!
 
 **Members**
 
-Ayush - write more here such your role in the project and more info if you desire -
+Ayush - 09s.ayush@gmail.com 
 
-Lina - write more here such your role in the project and more info if you desire -
+Lina - linalgrayson@gmail.com
 
-Kade - write more here such your role in the project and more info if you desir e-
-
+Kade - harrisonkade6@gmail.com
 **Things to possibly fix**
 
 Only delete this section once everything in here has been fixed and or removed
