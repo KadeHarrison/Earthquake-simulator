@@ -8,6 +8,7 @@ Ayush - 09s.ayush@gmail.com
 Lina - linalgrayson@gmail.com
 
 Kade - harrisonkade6@gmail.com
+
 **Things to possibly fix**
 
 Only delete this section once everything in here has been fixed and or removed
