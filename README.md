@@ -17,13 +17,21 @@ Info in () = possible wrong info or things I'm not too sure about
 
 Info in - - = fill in if it refers to you 
 
-lacck of info and [] = I don't know
+lack of info and [] = I don't know what goes there so if you do please fill it in
 
-# Reason why + Inspo
+Info in {} = add more info to that section or just improve it please
+
+# General Info
+
+**Reason built + inspiration**
 
 The project we decided to work on for our last project before the world ends is an earthquake simulator. (The reason why we chose this is because we thought it would be funny to end the world faster than it was going to already.)
 
 Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
+
+**How it works**
+
+{Motor go spinny spin and vibrates the board making it go shaky shake 👍}
 
 # BOM
 |Item|How much we spent (Fish or Yuan)|Purpose| Amount bought/borrowed |Running Total (Fish or Yuan)|
@@ -33,3 +41,4 @@ Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
 |Buzzer| ¥5 | to immitate earthquake sirens| 5|¥5 +100 Fish
 |LED| ¥10 |Represents emergency lights| 50 |¥15 + 100 fish
 | ESR motor | ¥50 | Immitates earthquake shaking| 2 | ¥65 +100 fish |
+| Breadboard | 15 Fish | Connects components | 1 | ¥65 + 110 fish |
