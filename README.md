@@ -89,4 +89,5 @@ This is and angle where you can see the cars properly standing up
 | 1m of wire | 5 fish | connects componments| 1 | ¥65 +215 fish |
 |3D printing filament | Nothing | to print out the buildings | A whole bunch from printing | ¥65 +215 fish |
 | Paint | Nothing | Paint the top cardboard layer making it a brown earthy tone |quarter of a jar | ¥65 +215 fish |
-| Neopixel | 70 koi | To add some light/cool balance!! | 14 LEDs | 0 fish |
+| red LED | 5 Yuan | To add some light/cool balance!! | 50 LEDs | ¥5 + 0 fish |
+| blue LED | 5 Yuan | To add some light/cool balance!! | 50 LEDs | ¥5 + 0 fish |
