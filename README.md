@@ -55,10 +55,15 @@ Most of the building blocks have either a slot or and extension in them which is
 
 **Car designs**
 
+Kade made 4 different car designs of varying shapes and sizes as we weren't able to 3D print different car models as they weren't considered essential enough to print.
+
 <img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/6fc2bae8-7eec-474e-a666-d8bf0e2d3ff9" />
 
+This is a photo from a top angle
 
-Kade made 4 different car designs of varying shapes and sizes as we weren't able to 3D print different car models as they weren't considered essential enough to print.
+![Uploading image.png…]()
+
+This is and angle where you can see the cars properly standing up
 
 **Breadboard**
 
