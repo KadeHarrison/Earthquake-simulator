@@ -1,3 +1,5 @@
+<img width="391" height="557" alt="image" src="https://github.com/user-attachments/assets/2a090eaa-276d-4d23-a7a2-99f588d915fe" />
+
 
 group task!!!!!!!!
 
@@ -78,4 +80,4 @@ This is and angle where you can see the cars properly standing up
 | 1m of wire | 5 fish | connects componments| 1 | ¥65 +215 fish |
 |3D printing filament | Nothing | to print out the buildings | A whole bunch from printing | ¥65 +215 fish |
 | Paint | Nothing | Paint the top cardboard layer making it a brown earthy tone |quarter of a jar | ¥65 +215 fish |
-| Neopixel | 70 koi | 
+| Neopixel | 70 koi | To add some light/cool balance!! | 14 LEDs | 0 fish |
