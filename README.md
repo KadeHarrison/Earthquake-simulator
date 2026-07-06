@@ -21,7 +21,9 @@ Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
 
 The motors spin causing the entire cuty module to start shaking which will then cause the building which are purposefully not properly linked together to start breaking apart. Whille this is happening there will be red flashing LEDs and Loud buzzers blaring high pitched noises to make the simulation of the earthquake more realistic. 
 
-# Cad designs 
+# Designs 
+
+**CAD designs**
 
 Lina made the CAD designs shown below:
 
@@ -36,6 +38,16 @@ These are the medium building pieces
 <img width="998" height="731" alt="Screenshot 2026-07-06 at 9 31 51 am" src="https://github.com/user-attachments/assets/1603b9f1-c208-4751-993a-be5fc8877cb9" />
 
 These are the smallest building pieces
+
+**Building design**
+
+<img width="3024" height="4032" alt="IMG_0822" src="https://github.com/user-attachments/assets/d965e539-041c-444a-b0ed-bd1881b198d2" />
+
+This is an image from a side angle
+
+<img width="3024" height="4032" alt="IMG_0823" src="https://github.com/user-attachments/assets/9c862284-8de3-472b-93d8-ab5c9f094ac2" />
+
+This is an image from a semi-birds eye view angle
 
 **Info on building pieces**
 
