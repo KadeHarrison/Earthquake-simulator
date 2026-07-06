@@ -63,8 +63,17 @@ This is a photo from a top angle
 
 This is and angle where you can see the cars properly standing up
 
-**Breadboard**
+**Motor**
+<img width="1079" height="2337" alt="image" src="https://github.com/user-attachments/assets/164aed23-131b-4a4b-a1df-1aca84432f69" />
 
+
+# How to build  
+1. Sketch and then cut out whatever shapes you want to make cool buildings!! You can see which sizes are available in the CAD files.
+2. Print out the corresponding peices-- each part has another part that it can stack onto to make higher and make it even more chaotic.
+3. Connect the motor-extension pieces to the motor and put it under the sheet of cardboard (your makeshift city).
+4. Connect the breadboard components as shown in the image below and load the code into the ESP, connecting it to power. Your LEDs and buzzers should start working.
+5. Plug in the power of the motor, and you have a rumbling ground!!
+6. You now have a fully working earthquake simulator :3 
 
 
 # BOM
