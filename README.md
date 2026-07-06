@@ -53,6 +53,17 @@ This is an image from a semi-birds eye view angle
 
 Most of the building blocks have either a slot or and extension in them which is small enough to hold them together but not keep it's structural integrity when a different acting force such as motion from vibrations is applied. The other pieces an easily fit on the top and do not have connecting areas meaning that they will fall no matter what.
 
+**Car designs**
+
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/6fc2bae8-7eec-474e-a666-d8bf0e2d3ff9" />
+
+
+Kade made 4 different car designs of varying shapes and sizes as we weren't able to 3D print different car models as they weren't considered essential enough to print.
+
+**Breadboard**
+
+
+
 # BOM
 |Item|How much we spent (Fish or Yuan)|Purpose| Amount bought/borrowed |Running Total (Fish or Yuan)|
 |----|----|-------|-------------|---------|
