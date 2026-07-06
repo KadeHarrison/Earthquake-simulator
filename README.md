@@ -1,4 +1,4 @@
-# Earthquake-simulator
+
 group task!!!!!!!!
 
 **Members**
@@ -57,11 +57,12 @@ Most of the building blocks have either a slot or and extension in them which is
 
 Kade made 4 different car designs of varying shapes and sizes as we weren't able to 3D print different car models as they weren't considered essential enough to print.
 
-<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/6fc2bae8-7eec-474e-a666-d8bf0e2d3ff9" />
+<img width="413" height="123" alt="Screenshot 2026-07-06 at 3 06 27 pm" src="https://github.com/user-attachments/assets/9e56a0e7-eaf7-46d7-a638-ee4cd8cac45e" />
+
 
 This is a photo from a top angle
 
-![Uploading image.png…]()
+<img width="555" height="326" alt="Screenshot 2026-07-06 at 3 05 06 pm" src="https://github.com/user-attachments/assets/ceb4345d-6fec-4b2f-9b74-4a4892873c31" />
 
 This is and angle where you can see the cars properly standing up
 
