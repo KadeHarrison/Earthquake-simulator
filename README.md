@@ -52,4 +52,4 @@ Most of the building blocks have either a slot or and extension in them which is
 | Breadboard | 15 Fish | Connects components | 1 | ¥65 + 110 fish |
 |XIAO ESP32-C3 | 100 fish | Controls LED | 1 | ¥65 + 210 fish |
 | 1m of wire | 5 fish | connects componments| 1 | ¥65 +215 fish |
-|3D printing filament | Nothing | to print out the buildings | ¥65 +215 fish |
+|3D printing filament | Nothing | to print out the buildings | A whole bunch from printing | ¥65 +215 fish |
