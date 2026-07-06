@@ -13,7 +13,7 @@ Kade - harrisonkade6@gmail.com
 
 **Reason built + inspiration**
 
-The project we decided to work on for our last project before the world ends is an earthquake simulator. (The reason why we chose this is because we thought it would be funny to end the world faster than it was going to already.)
+Since we knew that the project would have major time constraints as we only a couple days to actually work on the project we decided to work on something fairly simple while still being engaging so we chose to make an earthquake simulator.. The reason why we chose this is because we thought it would be funny to end the world faster than it was going to already.
 
 Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
 
