@@ -12,20 +12,15 @@ Kade - harrisonkade6@gmail.com
 # General Info
 
 **Reason built + inspiration**
-
-Since we knew that the project would have major time constraints as we only a couple days to actually work on the project we decided to work on something fairly simple while still being engaging so we chose to make an earthquake simulator. The reason why we chose this is because we thought it would be funny to end the world faster than it was going to already.
-
-Inspired by our amazingly creative brains 👍👍👍👍👍👍👍👍👍
+The world is already ending, so why not end it faster? We decided to make a miniature earthquake simulator to simulate the world coming to its end. 
 
 **How it works**
-
-The motors spin causing the entire cuty module to start shaking which will then cause the building which are purposefully not properly linked together to start breaking apart. Whille this is happening there will be red flashing LEDs and Loud buzzers blaring high pitched noises to make the simulation of the earthquake more realistic. 
+Since we knew that the project would have major time constraints (we only a couple days to actually work on the project) we decided to keep everything fairly simple.  
+The motors spin, causing the entire city module to start shaking, which will cause many forms of chaos-- sirens (buzzers), LEDs (neopixel), and buildings falling apart. 
 
 # Designs 
 
 **CAD designs**
-
-Lina made the CAD designs shown below:
 
 <img width="923" height="703" alt="Screenshot 2026-07-06 at 9 30 03 am" src="https://github.com/user-attachments/assets/ad7263ac-e1cc-4162-9406-a57857fc86f1" />
 
@@ -82,3 +77,5 @@ This is and angle where you can see the cars properly standing up
 |XIAO ESP32-C3 | 100 fish | Controls LED | 1 | ¥65 + 210 fish |
 | 1m of wire | 5 fish | connects componments| 1 | ¥65 +215 fish |
 |3D printing filament | Nothing | to print out the buildings | A whole bunch from printing | ¥65 +215 fish |
+| Paint | Nothing | Paint the top cardboard layer making it a brown earthy tone |quarter of a jar | ¥65 +215 fish |
+| Neopixel | 70 koi | 
